@@ -4,8 +4,10 @@
  * 
  * Version 1.21
  *
- * btTelco
+ * btTelco - http://www.bttelco.com
+ *
  * A bitTrust Service.
+ * http://www.bittrust.net
  * Identikrecord Group
  * Copyright 2013 (C) All rights reserved.
  * 

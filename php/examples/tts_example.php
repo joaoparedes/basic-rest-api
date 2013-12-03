@@ -1,5 +1,20 @@
 <?php
 
+/* 
+ * btTelco Basic REST API - PHP Implementation - Text-to-Speech Example
+ * 
+ * Version 1.21
+ *
+ * btTelco - http://www.bttelco.com
+ *
+ * A bitTrust Service.
+ * http://www.bittrust.net
+ * Identikrecord Group
+ * Copyright 2013 (C) All rights reserved.
+ * 
+ */
+
+
 /* Include Basic API php file */
 include('bt_api_basic.php');
 
