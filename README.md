@@ -1,6 +1,8 @@
 basic-rest-api
 ==============
 
+URL: http://www.bttelco.com
+
 Basic REST API - What is it?
 
 All services provided by btTelco were designed and implemented with interoperability in mind. This meaning that despite we offer some applications to perform some operations that are considered the main use cases for most users, we've also done our best efforts to provide a way for advanced users to implement their own features, services or products.
